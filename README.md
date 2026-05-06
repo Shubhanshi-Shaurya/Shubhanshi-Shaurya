@@ -43,7 +43,8 @@ Passionate about building intelligent systems and solving real-world problems wi
 </a>
 
 - **Tech Stack:** `Python` `Scikit-learn` `Flask` `HTML/CSS`
-- Developed an end-to-end Machine Learning application to predict placement outcomes based on academic parameters like IQ and CGPA.
+- Developed an end-to-end Machine Learning application to predict placement outcomes based on their academic and cognitive metrics.
+- Machine Learning model trained on student data such as IQ and CGPA.
 
 ---
 
@@ -53,6 +54,7 @@ Passionate about building intelligent systems and solving real-world problems wi
 </a>
 
 - **Tech Stack:** `Python` `Scikit-learn` `Streamlit`
+- A machine learning-powered web application that classifies movie reviews as Positive or Negative. Built with Python, Scikit-Learn, and Streamlit, this project demonstrates a complete ML pipeline.
 - Built a classifier for movie reviews to categorize positive or negative sentiments, demonstrating a complete ML pipeline.
 
 ---
@@ -64,6 +66,7 @@ Passionate about building intelligent systems and solving real-world problems wi
 
 - **Tech Stack:** `Python` `Machine Learning` `Data Analysis`
 - Analyzed customer data to predict churn patterns and improve retention strategies using predictive modeling.
+- By analyzing usage patterns and contract details, the system helps businesses identify "at-risk" customers.
 
 
 ---
