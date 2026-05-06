@@ -58,21 +58,22 @@ Passionate about building intelligent systems and solving real-world problems wi
 <div align="center">
   <h2>🤝 Connect with me</h2>
 
+  <!-- Professional Social Badges with increased spacing -->
   <a href="https://linkedin.com/in/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    &nbsp; <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=flat-square&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" /> &nbsp;
   </a>
   <a href="https://leetcode.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+    &nbsp; <img src="https://img.shields.io/badge/LeetCode-6366F1?style=flat-square&logo=LeetCode&logoColor=white" height="35" alt="LeetCode" /> &nbsp;
   </a>
-  <a href="mailto: shubhanshishaurya2006@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:your-email@gmail.com">
+    &nbsp; <img src="https://img.shields.io/badge/Gmail-818CF8?style=flat-square&logo=gmail&logoColor=white" height="35" alt="Gmail" /> &nbsp;
   </a>
 
   <br/><br/>
 
-  <p>
-    <i>Open to <b>Machine Learning</b> collaborations, <b>Full-Stack</b> freelance opportunities, and technical discussions. 
-    Currently maintaining a 50+ day <b>LeetCode streak</b> and exploring the latest in <b>Generative AI</b>.</i>
+  <p align="center">
+    <i>Available for <b>Machine Learning</b> research and <b>Full-Stack</b> development collaborations.<br/>
+    Currently scaling my <b>Data Structures & Algorithms</b> skills and exploring <b>LLM integration</b>.</i>
   </p>
 </div>
 
