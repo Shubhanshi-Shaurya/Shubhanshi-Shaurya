@@ -75,26 +75,38 @@ Passionate about building intelligent systems and solving real-world problems wi
 
 ---
 
-<div align="center">
-  <h2>🤝 Connect with me</h2>
+---
 
-  <!-- Professional Social Badges with increased spacing -->
+##  Connect with me
+
+<div align="center">
+
+  <!-- LinkedIn - Deep Slate Color -->
   <a href="https://linkedin.com/in/yourusername" target="_blank">
-    &nbsp; <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=flat-square&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" /> &nbsp;
+    <img src="https://img.shields.io/badge/LinkedIn-404040?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
   </a>
+  
+  <br/> <!-- Forces new line -->
+
+  <!-- LeetCode - Slate Gray Color -->
   <a href="https://leetcode.com/yourusername" target="_blank">
-    &nbsp; <img src="https://img.shields.io/badge/LeetCode-6366F1?style=flat-square&logo=LeetCode&logoColor=white" height="35" alt="LeetCode" /> &nbsp;
+    <img src="https://img.shields.io/badge/LeetCode-525252?style=for-the-badge&logo=LeetCode&logoColor=white" height="35" alt="LeetCode" />
   </a>
-  <a href="mailto:your-email@gmail.com">
-    &nbsp; <img src="https://img.shields.io/badge/Gmail-818CF8?style=flat-square&logo=gmail&logoColor=white" height="35" alt="Gmail" /> &nbsp;
+  
+  <br/> <!-- Forces new line -->
+
+  <!-- Gmail - Charcoal Gray Color -->
+  <a href="https://mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-737373?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail" />
   </a>
 
   <br/><br/>
 
-  <p align="center">
+  <p>
     <i>Available for <b>Machine Learning</b> research and <b>Full-Stack</b> development collaborations.<br/>
     Currently scaling my <b>Data Structures & Algorithms</b> skills and exploring <b>LLM integration</b>.</i>
   </p>
+
 </div>
 
 ---
