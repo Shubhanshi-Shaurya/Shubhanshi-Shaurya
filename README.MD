@@ -16,12 +16,19 @@ Passionate about building intelligent systems and solving real-world problems wi
 
 ---
 
-
 <div align="center">
-  <h2>Tech Stack</h2>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,js,react,python,cpp,git,github,vscode" alt="My Tech Stack Icons" />
-  </a>
+  <h2> Tech Stack & Skills</h2>
+  
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,java,html,css" alt="Languages" />
+  <br><br>
+  
+  <!-- Web & Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,react,tailwind" alt="Web Development" />
+  <br><br>
+  
+  <!-- AI, ML & Tools -->
+  <img src="https://skillicons.dev/icons?i=scikitlearn,flask,git,github,vscode,pycharm" alt="AI and Tools" />
 </div>
 
 
@@ -32,11 +39,11 @@ Passionate about building intelligent systems and solving real-world problems wi
 
 ### Placement Predictor
 - Developed using Machine Learning, Flask, and Web technologies  
-- Predicts placement outcomes based on input data  
+- Predicts placement outcomes based on input data  such as IQ and CGPA 
 
-### Sales Forecasting
-- Time series forecasting project  
-- Assists in business decision-making  
+### Sentiment Analysis
+- Classifies movie reviews as Positive or Negative sentiments 
+- Built with Python, Scikit-Learn, and Streamlit, this project demonstrates a complete ML pipeline
 
 
 ---
