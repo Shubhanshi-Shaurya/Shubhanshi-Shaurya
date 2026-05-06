@@ -16,30 +16,17 @@ Passionate about building intelligent systems and solving real-world problems wi
 
 ---
 
-## Technical Skills
 
-### Languages
-- Python  
-- Java  
-- JavaScript  
+<div align="center">
+  <h2>Tech Stack</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,js,react,python,cpp,git,github,vscode" alt="My Tech Stack Icons" />
+  </a>
+</div>
 
-### Tools and Technologies
-- Machine Learning  
-- Flask  
-- Streamlit  
-- Git and GitHub  
-- HTML and CSS  
 
 ---
 
-## GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default)
-
----
 
 ## Projects
 
@@ -57,14 +44,13 @@ Passionate about building intelligent systems and solving real-world problems wi
 ## Currently Learning
 - Deep Learning  
 - Advanced Data Structures and Algorithms  
-- Model Deployment  
 
 ---
 
 ## Contact
 - LinkedIn: https://linkedin.com/in/YOUR_LINK  
 - GitHub: https://github.com/YOUR_USERNAME  
-- Email: YOUR_EMAIL  
+- Email: shubhanshishaurya@gmail.com
 
 ---
 
