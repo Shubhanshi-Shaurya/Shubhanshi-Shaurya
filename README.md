@@ -35,15 +35,24 @@ Passionate about building intelligent systems and solving real-world problems wi
 ---
 
 
-## Projects
+##  Featured Projects
 
-### Placement Predictor
-- Developed using Machine Learning, Flask, and Web technologies  
-- Predicts placement outcomes based on input data  such as IQ and CGPA 
+### [Placement Predictor](https://github.com/Shubhanshi-Shaurya/Full-Stack-Placement-Predictor)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github&style=flat-square)](https://github.com/Shubhanshi-Shaurya/Full-Stack-Placement-Predictor)
+- **Tech Stack:** Python, Scikit-learn, Flask, HTML/CSS
+- Developed an end-to-end Machine Learning web application to predict student placement outcomes.
+- Implemented predictive modeling based on academic parameters like IQ and CGPA.
 
-### Sentiment Analysis
-- Classifies movie reviews as Positive or Negative sentiments 
-- Built with Python, Scikit-Learn, and Streamlit, this project demonstrates a complete ML pipeline
+### [Sentiment Analysis](https://github.com/Shubhanshi-Shaurya/Sentiment-analysis)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-green?logo=github&style=flat-square)](https://github.com/Shubhanshi-Shaurya/Sentiment-analysis)
+- **Tech Stack:** Python, Scikit-learn, Streamlit
+- Built a classifier for movie reviews to categorize them as positive or negative sentiments.
+- Demonstrated a complete ML pipeline from data preprocessing to model deployment.
+
+### [Customer Churn Project](https://github.com/Shubhanshi-Shaurya/Customer-churn-project)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-red?logo=github&style=flat-square)](https://github.com/Shubhanshi-Shaurya/Customer-churn-project)
+- **Tech Stack:** Python, Machine Learning
+- Analyzed customer data to predict churn patterns and improve retention strategies.
 
 
 ---
