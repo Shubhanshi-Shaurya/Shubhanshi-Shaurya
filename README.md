@@ -75,28 +75,27 @@ Passionate about building intelligent systems and solving real-world problems wi
 
 ---
 
----
 
 ##  Connect with me
 
 <div align="center">
 
-  <!-- LinkedIn - Deep Slate Color -->
+  
   <a href="https://linkedin.com/in/yourusername" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-404040?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
   </a>
   
-  <br/> <!-- Forces new line -->
+  <br/> 
 
-  <!-- LeetCode - Slate Gray Color -->
+  
   <a href="https://leetcode.com/yourusername" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-525252?style=for-the-badge&logo=LeetCode&logoColor=white" height="35" alt="LeetCode" />
   </a>
   
-  <br/> <!-- Forces new line -->
+  <br/> 
 
-  <!-- Gmail - Charcoal Gray Color -->
-  <a href="https://mailto:your-email@gmail.com">
+  
+  <a href="https://mailto:shubhanshishaurya2006@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-737373?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail" />
   </a>
 
