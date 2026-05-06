@@ -39,29 +39,31 @@ Passionate about building intelligent systems and solving real-world problems wi
 
 ### [Placement Predictor](https://github.com/Shubhanshi-Shaurya/Full-Stack-Placement-Predictor)
 <a href="https://github.com/Shubhanshi-Shaurya/Full-Stack-Placement-Predictor">
-  <img src="https://img.shields.io/badge/View_Repository-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Placement Predictor Repo" />
+  <img src="https://img.shields.io/badge/GIT_REPOSITORY-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Placement Predictor Repo" />
 </a>
-- **Tech Stack:** Python, Scikit-learn, Flask, HTML/CSS
-- Developed an end-to-end Machine Learning web application to predict student placement outcomes based on academic parameters like IQ and CGPA.
+
+- **Tech Stack:** `Python` `Scikit-learn` `Flask` `HTML/CSS`
+- Developed an end-to-end Machine Learning application to predict placement outcomes based on academic parameters like IQ and CGPA.
 
 ---
 
 ### [Sentiment Analysis](https://github.com/Shubhanshi-Shaurya/Sentiment-analysis)
 <a href="https://github.com/Shubhanshi-Shaurya/Sentiment-analysis">
-  <img src="https://img.shields.io/badge/View_Repository-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="Sentiment Analysis Repo" />
+  <img src="https://img.shields.io/badge/GIT_REPOSITORY-334155?style=for-the-badge&logo=github&logoColor=white" alt="Sentiment Analysis Repo" />
 </a>
-- **Tech Stack:** Python, Scikit-learn, Streamlit
-- Built a classifier for movie reviews to categorize them as positive or negative sentiments.
-- Demonstrated a complete ML pipeline from data preprocessing to model deployment.
+
+- **Tech Stack:** `Python` `Scikit-learn` `Streamlit`
+- Built a classifier for movie reviews to categorize positive or negative sentiments, demonstrating a complete ML pipeline.
 
 ---
 
 ### [Customer Churn Project](https://github.com/Shubhanshi-Shaurya/Customer-churn-project)
 <a href="https://github.com/Shubhanshi-Shaurya/Customer-churn-project">
-  <img src="https://img.shields.io/badge/View_Repository-3730A3?style=for-the-badge&logo=github&logoColor=white" alt="Customer Churn Repo" />
+  <img src="https://img.shields.io/badge/GIT_REPOSITORY-1e293b?style=for-the-badge&logo=github&logoColor=white" alt="Customer Churn Repo" />
 </a>
-- **Tech Stack:** Python, Machine Learning
-- Analyzed customer data to predict churn patterns and improve retention strategies.
+
+- **Tech Stack:** `Python` `Machine Learning` `Data Analysis`
+- Analyzed customer data to predict churn patterns and improve retention strategies using predictive modeling.
 
 
 ---
