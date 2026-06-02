@@ -59,15 +59,14 @@ Passionate about building intelligent systems and solving real-world problems wi
 
 ---
 
-### [Customer Churn Project](https://github.com/Shubhanshi-Shaurya/Customer-churn-project)
-<a href="https://github.com/Shubhanshi-Shaurya/Customer-churn-project">
-  <img src="https://img.shields.io/badge/GIT_REPOSITORY-1e293b?style=for-the-badge&logo=github&logoColor=white" alt="Customer Churn Repo" />
+### [Movie Recommender System](https://github.com/Shubhanshi-Shaurya/Movie_recommender_system)
+<a href="https://github.com/Shubhanshi-Shaurya/Movie_recommender_system">
+  <img src="https://img.shields.io/badge/GIT_REPOSITORY-1e293b?style=for-the-badge&logo=github&logoColor=white" alt="Movie Recommender Repo" />
 </a>
 
 - **Tech Stack:** `Python` `Machine Learning` `Data Analysis`
-- Analyzed customer data to predict churn patterns and improve retention strategies using predictive modeling.
-- By analyzing usage patterns and contract details, the system helps businesses identify "at-risk" customers.
-
+- A Movie Recommender System built using Machine Learning that suggests movies to users based on similarity and recommendation algorithms.
+-  This project helps users discover movies according to their interests and viewing preferences.
 
 ---
 
