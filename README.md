@@ -48,14 +48,14 @@ Passionate about building intelligent systems and solving real-world problems wi
 
 ---
 
-### [Sentiment Analysis](https://github.com/Shubhanshi-Shaurya/Sentiment-analysis)
-<a href="https://github.com/Shubhanshi-Shaurya/Sentiment-analysis">
+### [WhatsApp Chat Analyzer](https://github.com/Shubhanshi-Shaurya/WhatsApp-chat-Analyzer)
+<a href="https://github.com/Shubhanshi-Shaurya/WhatsApp-chat-Analyzer">
   <img src="https://img.shields.io/badge/GIT_REPOSITORY-334155?style=for-the-badge&logo=github&logoColor=white" alt="Sentiment Analysis Repo" />
 </a>
 
-- **Tech Stack:** `Python` `Scikit-learn` `Streamlit`
-- A machine learning-powered web application that classifies movie reviews as Positive or Negative. Built with Python, Scikit-Learn, and Streamlit, this project demonstrates a complete ML pipeline.
-- Built a classifier for movie reviews to categorize positive or negative sentiments, demonstrating a complete ML pipeline.
+- **Tech Stack:** `Python` `Scikit-learn` `Streamlit` 
+- A machine learning-powered web application that extracts meaningful insights from exported WhatsApp chats. 
+- This application helps users analyze chat activity, user participation, word usage, emojis, timelines, and much more through an interactive dashboard.
 
 ---
 
