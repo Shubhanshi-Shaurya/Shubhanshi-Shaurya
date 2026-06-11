@@ -1,7 +1,7 @@
 <h1 align="center">Shubhanshi Shaurya</h1>
 
 <p align="center">
-<b>AI/ML Enthusiast | Developer | Problem Solver</b><br>
+<b>AI/ML Enthusiast | Developer | AI Engineer</b><br>
 Passionate about building intelligent systems and solving real-world problems with code
 </p> 
 
