@@ -83,7 +83,7 @@ Passionate about building intelligent systems and solving real-world problems wi
 <div align="center">
 
   
-  <a href="www.linkedin.com/in/shubhanshi-shaurya-413611321" target="_blank">
+  <a href="https://www.linkedin.com/in/shubhanshi-shaurya-413611321/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-404040?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
   </a>
   
