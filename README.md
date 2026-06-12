@@ -83,14 +83,14 @@ Passionate about building intelligent systems and solving real-world problems wi
 <div align="center">
 
   
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
+  <a href="www.linkedin.com/in/shubhanshi-shaurya-413611321" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-404040?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
   </a>
   
   <br/> 
 
   
-  <a href="https://leetcode.com/yourusername" target="_blank">
+  <a href="https://leetcode.com/u/Shubhanshi_Shaurya/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-525252?style=for-the-badge&logo=LeetCode&logoColor=white" height="35" alt="LeetCode" />
   </a>
   
