@@ -53,7 +53,7 @@ Passionate about building intelligent systems and solving real-world problems wi
   <img src="https://img.shields.io/badge/GIT_REPOSITORY-334155?style=for-the-badge&logo=github&logoColor=white" alt="Sentiment Analysis Repo" />
 </a>
 
-- **Tech Stack:** `Python` `Scikit-learn` `Streamlit` 
+- **Tech Stack:** `Python` `Scikit-learn` `Streamlit` `NLTK`
 - A machine learning-powered web application that extracts meaningful insights from exported WhatsApp chats. 
 - This application helps users analyze chat activity, user participation, word usage, emojis, timelines, and much more through an interactive dashboard.
 
